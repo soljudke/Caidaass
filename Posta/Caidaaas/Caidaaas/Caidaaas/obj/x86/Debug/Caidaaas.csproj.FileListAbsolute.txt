@@ -429,3 +429,7 @@ C:\Users\c\Desktop\Caidaass\Posta\Caidaaas\Caidaaas\Caidaaas\obj\x86\Debug\Caida
 C:\Users\c\Desktop\Caidaass\Posta\Caidaaas\Caidaaas\Caidaaas\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\c\Desktop\Caidaass\Posta\Caidaaas\Caidaaas\Caidaaas\obj\x86\Debug\Caidaaas.exe
 C:\Users\c\Desktop\Caidaass\Posta\Caidaaas\Caidaaas\Caidaaas\obj\x86\Debug\Caidaaas.pdb
+C:\Users\c\Desktop\Caidaass\Posta\Caidaaas\Caidaaas\Caidaaas\bin\x86\Debug\Caidaaas.exe.manifest
+C:\Users\c\Desktop\Caidaass\Posta\Caidaaas\Caidaaas\Caidaaas\bin\x86\Debug\Caidaaas.application
+C:\Users\c\Desktop\Caidaass\Posta\Caidaaas\Caidaaas\Caidaaas\obj\x86\Debug\Caidaaas.exe.manifest
+C:\Users\c\Desktop\Caidaass\Posta\Caidaaas\Caidaaas\Caidaaas\obj\x86\Debug\Caidaaas.application
