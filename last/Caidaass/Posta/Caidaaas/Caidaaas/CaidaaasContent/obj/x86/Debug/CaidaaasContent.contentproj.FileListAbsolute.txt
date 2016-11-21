@@ -1,0 +1,8 @@
+C:\Users\c\Desktop\Caidaaas\Caidaaas\CaidaaasContent\obj\x86\Debug\CaidaaasContent.contentprojResolveAssemblyReference.cache
+D:\Users\41614549.ALMAGRO.002\Desktop\Caidaaas\Caidaaas\CaidaaasContent\obj\x86\Debug\CaidaaasContent.contentprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\probando\2\Caidaaas\Caidaaas\CaidaaasContent\obj\x86\Debug\CaidaaasContent.contentprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\Caidaaas\Posta\Caidaaas\Caidaaas\CaidaaasContent\obj\x86\Debug\CaidaaasContent.contentprojResolveAssemblyReference.cache
+D:\Users\41614549.ALMAGRO.003\Desktop\Caidaaas\Posta\Caidaaas\Caidaaas\CaidaaasContent\obj\x86\Debug\CaidaaasContent.contentprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\Caidaass\Posta\Caidaaas\Caidaaas\CaidaaasContent\obj\x86\Debug\CaidaaasContent.contentprojResolveAssemblyReference.cache
+D:\Users\41614549.ALMAGRO.004\Desktop\Caidaass\Posta\Caidaaas\Caidaaas\CaidaaasContent\obj\x86\Debug\CaidaaasContent.contentprojResolveAssemblyReference.cache
+G:\Super proyecto\Caidaass\Posta\Caidaaas\Caidaaas\CaidaaasContent\obj\x86\Debug\CaidaaasContent.contentprojResolveAssemblyReference.cache
